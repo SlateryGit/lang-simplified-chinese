@@ -16,12 +16,12 @@ flarum-nicknames:
     invalid_nickname_message: 昵称非法。请联系论坛管理员获取昵称规则。
   forum:
     change_nickname:
-      submit_button: '=> core.ref.save_changes'
-      title: '=> flarum-nicknames.ref.change_nickname'
+      submit_button: 保存更改
+      title: 更改昵称
     edit_user:
-      nicknames_heading: '=> flarum-nicknames.ref.change_nickname'
+      nicknames_heading: 更改昵称
       nicknames_text: 昵称
     settings:
-      change_nickname_button: '=> flarum-nicknames.ref.change_nickname'
+      change_nickname_button: 更改昵称
   ref:
     change_nickname: 更改昵称
